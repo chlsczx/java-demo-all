@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>demoj-spring-boot-docker-compose</module>
+        <module>demoj-spring-validation</module>
     </modules>
 
     <dependencyManagement>
