@@ -1,0 +1,12 @@
+### create
+GET localhost:8080/quartz/create
+
+### pause
+GET localhost:8080/quartz/pause
+
+
+### resume
+GET localhost:8080/quartz/resume
+
+### modify
+GET localhost:8080/quartz/modify/1

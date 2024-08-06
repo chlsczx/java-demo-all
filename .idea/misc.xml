@@ -5,6 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demoj-springmvc-ithm/springmvc_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/demoj-springmvc-ithm/springmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/demoj-springmvc-ithm/pom.xml" />
+        <option value="$PROJECT_DIR$/demoj-concurrent-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demoj-springmvc-ithm/springmvc_03_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/demoj-springmvc-ithm/springmvc_03_interruptor/pom.xml" />
       </list>
     </option>
   </component>
