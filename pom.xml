@@ -5,12 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.czx.demoj</groupId>
-    <artifactId>demoj-java-all</artifactId>
+    <artifactId>demoj-all</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>demoj-concurrent-demo</module>
         <module>demoj-spring-framework-all</module>
+        <module>demoj-netty-all</module>
     </modules>
 
 </project>

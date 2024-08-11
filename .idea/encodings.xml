@@ -3,8 +3,24 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demoj-concurrent-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-concurrent-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-netty-all/demoj-netty-nio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-netty-all/demoj-netty-nio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-netty-all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-netty-all/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-boot-docker-compose/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-boot-docker-compose/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-validation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-springboot-docker-compose/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-springboot-docker-compose/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-springboot-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-springboot-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-springmvc-ithm/springmvc_04_interruptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-springmvc-ithm/springmvc_04_interruptor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-mvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-mvc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-validation/src/main/java" charset="UTF-8" />
