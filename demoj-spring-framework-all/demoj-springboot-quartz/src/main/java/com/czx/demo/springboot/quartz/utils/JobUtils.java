@@ -34,6 +34,7 @@ public class JobUtils {
                 .usingJobData("count", 1)
                 .build();
 
+        // 一个 trigger 对应一个 jobDetail
         Trigger trigger = TriggerBuilder.newTrigger()
                 .forJob(jobDetail)
                 .withIdentity(triggerName, triggerGroup)

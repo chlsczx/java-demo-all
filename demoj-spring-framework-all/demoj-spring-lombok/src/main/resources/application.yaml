@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.czx.demoj: debug

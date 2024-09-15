@@ -5,7 +5,7 @@ spring:
     schemas: demo
   docker:
     compose:
-      file: ./demoj-spring-boot-docker-compose/compose.yaml
+      file: ./demoj-spring-framework-all/demoj-spring-boot-docker-compose/compose.yaml
   datasource:
 #    url: jdbc:mysql://mysql:3306/demo?serverTimezone=UTC&allowPublicKeyRetrieval=false
 #    username: root

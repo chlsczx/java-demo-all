@@ -9,6 +9,10 @@
     <file url="file://$PROJECT_DIR$/demoj-netty-all/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-boot-docker-compose/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-boot-docker-compose/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-graphql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-graphql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-lombok/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-lombok/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-mvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-mvc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-spring-framework-all/demoj-spring-validation/src/main/java" charset="UTF-8" />
@@ -31,6 +35,8 @@
     <file url="file://$PROJECT_DIR$/demoj-springmvc-ithm/springmvc_03_exception/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-springmvc-ithm/springmvc_04_interruptor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demoj-springmvc-ithm/springmvc_04_interruptor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-zk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoj-zk/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

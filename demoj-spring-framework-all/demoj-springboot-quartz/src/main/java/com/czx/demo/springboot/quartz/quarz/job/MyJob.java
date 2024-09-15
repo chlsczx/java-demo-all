@@ -5,6 +5,7 @@ import org.quartz.*;
 import java.util.Date;
 
 @PersistJobDataAfterExecution
+// 禁止并发
 @DisallowConcurrentExecution
 public class MyJob implements Job {
     @Override

@@ -15,6 +15,7 @@
         <module>demoj-spring-validation</module>
         <module>demoj-springboot-quartz</module>
         <module>demoj-springmvc-ithm</module>
+        <module>demoj-spring-graphql</module>
     </modules>
 
     <properties>
@@ -51,8 +52,21 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
     <build>
         <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version> <!-- 使用适当的版本 -->
+                <configuration>
+                    <source>21</source> <!-- 你的 Java 版本 -->
+                    <target>21</target> <!-- 你的 Java 版本 -->
+                    <compilerArgs>
+                        <arg>-parameters</arg>
+                    </compilerArgs>
+                </configuration>
+            </plugin>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>

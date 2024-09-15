@@ -12,6 +12,8 @@
         <module>demoj-concurrent-demo</module>
         <module>demoj-spring-framework-all</module>
         <module>demoj-netty-all</module>
+        <module>demoj-spring-framework-all/demoj-spring-graphql</module>
+        <module>demoj-zk</module>
     </modules>
 
 </project>
